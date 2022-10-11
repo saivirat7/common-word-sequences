@@ -1,6 +1,6 @@
 package lib
 
-var ByteSize = 10 * 1024
+var ByteSize = 2 * 1024
 
 var WordLength = 3
 
