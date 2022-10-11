@@ -7,7 +7,8 @@ Supports 2 types of inputs:
 ### Running the library
 1. Add your test file in app/tests.
 2. Move to app folder: cd app
-3. Run the file using: ./app tests/<file1> tests/<file2>
+3. Build the binary: go build
+4. Run the file using: ./app tests/<file1> tests/<file2>
 
 ### Running test script
 Run the following commands:
